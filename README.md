@@ -1,12 +1,4 @@
 # BTY39105_Group03_HospitalManagement
-### Project-Based Learning (PBL) — Database Management System Lab (Course Code: BTY39105)
-**Brainware University — School of Engineering**  
-**Department of Computer Science & Engineering (Cyber Security & Data Science)**  
-398, Ramkrishnapur Road, Barasat, North 24 Parganas, Kolkata - 700 125  
-*B.Tech. CSE (Data Science & AI) • Semester V • Academic Session 2026*  
-*Faculty Guide / Course Coordinator: Mr. Indrasish Das*
-
----
 
 ## 1. Project Title & Group Allocation
 * **Assigned PBL Group**: **Group 3**
@@ -14,16 +6,6 @@
 * **Healthcare Institution**: Kolkata City Hospital & Medical Research Centre (KCHMRC)
 * **Campus Locations**: Salt Lake Sector V & Barrackpore, Kolkata, West Bengal
 * **Primary Database Management System**: **MySQL Server 8.0+ / MariaDB** (with SQLite fallback)
-
-### Five-Member Responsibility Matrix (Proforma Section 11)
-| Member | Student Name | Roll / ID Number | Assigned Domain Responsibility (Syllabus Proforma) |
-|---|---|---|---|
-| **Member 1** | Debojyoti Sen | BWU/BTD/24/041 | Requirement analysis, business rules, ER modelling |
-| **Member 2** | Priyanka Roy | BWU/BTD/24/042 | Relational schema, normalization (1NF–BCNF), data dictionary |
-| **Member 3** | Subhadip Ghosh | BWU/BTD/24/043 | MySQL database implementation, 270+ sample data records, advanced SQL queries |
-| **Member 4** | Ananya Banerjee | BWU/BTD/24/044 | Backend API development, MySQL connection pooling, validation, transaction logic |
-| **Member 5** | Souvik Chakraborty | BWU/BTD/24/045 | Frontend SPA UI, reporting dashboards, GitHub integration & cloud deployment |
-
 ---
 
 ## 2. Problem Statement & Objectives
